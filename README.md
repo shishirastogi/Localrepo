@@ -1,3 +1,3 @@
 #Localrepo
 <h1>Some Uses of Arrays in C</h1>
-<h2>Author : <colour = "blue">Shishir Rastogi</colour>
+<h2>Author: <span style="color: blue;">Shishir Rastogi</span></h2>
